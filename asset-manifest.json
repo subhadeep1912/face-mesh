@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/face-mesh/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/face-mesh/static/js/main.b6ae691a.chunk.js",
+    "main.js.map": "/face-mesh/static/js/main.b6ae691a.chunk.js.map",
+    "runtime-main.js": "/face-mesh/static/js/runtime-main.95bedfb2.js",
+    "runtime-main.js.map": "/face-mesh/static/js/runtime-main.95bedfb2.js.map",
+    "static/js/2.ddc3ab75.chunk.js": "/face-mesh/static/js/2.ddc3ab75.chunk.js",
+    "static/js/2.ddc3ab75.chunk.js.map": "/face-mesh/static/js/2.ddc3ab75.chunk.js.map",
+    "static/js/3.570fccf6.chunk.js": "/face-mesh/static/js/3.570fccf6.chunk.js",
+    "static/js/3.570fccf6.chunk.js.map": "/face-mesh/static/js/3.570fccf6.chunk.js.map",
+    "index.html": "/face-mesh/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/face-mesh/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ddc3ab75.chunk.js.LICENSE.txt": "/face-mesh/static/js/2.ddc3ab75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95bedfb2.js",
+    "static/js/2.ddc3ab75.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b6ae691a.chunk.js"
+  ]
+}
